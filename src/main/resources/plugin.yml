@@ -2,6 +2,8 @@ name: HealthCoin
 version: ${project.version}
 api-version: 1.18
 main: me.xiaozhangup.healthcoin.HealthCoin
+depend:
+  - Vault
 authors:
   - xiaozhangup
   - Sunshine_wzy
